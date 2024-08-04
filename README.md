@@ -1,2 +1,2 @@
-# CODSOFT1
-My Internship Project in CodSoft
+# codesoft_1
+My Work
